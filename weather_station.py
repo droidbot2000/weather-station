@@ -5,10 +5,10 @@ from twython import Twython
 import time
 
 # Twitter authentication
-APP_KEY='QcsVDmq22cWiUkS0x4ZIYyi2M'
-APP_SECRET='lYahX468URIlDv8DTtlPZYwuFwFj9aQMM0ZQ7QYDwaet7yeUTJ'
-OAUTH_TOKEN='966859631917084672-d6cgDpvVAKFfRVmtDJxvJq6bBMpHwfG'
-OAUTH_TOKEN_SECRET='Nyf693lfmw3ayKsFP5JD5yQgqtjjlzadvBimirIgGD0cg'
+APP_KEY=''
+APP_SECRET=''
+OAUTH_TOKEN=''
+OAUTH_TOKEN_SECRET=''
 
 # Twython object
 twitter = Twython(APP_KEY, APP_SECRET, OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
