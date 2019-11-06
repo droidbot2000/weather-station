@@ -1,0 +1,15 @@
+#hi students, let's use this file as an outline for the parts of our weather station code
+
+#part 1 -- what do we need to setup before our code can run on a continuous loop?
+
+#part 2 -- how will the weather station gather wind data?
+
+#part 3 -- gather temperature and humidity data?
+
+#part 4 -- gather soil moisture data?
+
+#part 5 -- any other data?
+
+#part 6 -- what do we do with the data?
+
+#anything else?
